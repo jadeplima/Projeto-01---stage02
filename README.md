@@ -15,6 +15,8 @@
 
 # Projeto
 
+<h3 align="center">Projeto desenvolvido no curso da plataforma Rocketseat na turma Explorer.</h3>
+
 
 ![Projeto 01 ](https://user-images.githubusercontent.com/75194076/183528188-d7097186-4e6c-42ba-bd2c-291122768eaf.jpg)
 
