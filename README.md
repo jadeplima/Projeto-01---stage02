@@ -1,5 +1,7 @@
 <p align="center">Projeto 01 - Stage 2 - Explorer Rocketseat </p>
 
+<p align="center"> Status do Projeto: :white_check_mark:  (Concluido) </p>
+
 <p align="center">
   <a href="#Tecnologias"> Tecnologias </a> .
   <a href="#Projeto"> Projeto </a>.
